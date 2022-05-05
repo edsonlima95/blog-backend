@@ -4,8 +4,8 @@ Api completa do blog sobre programação
 
 ## Stack utilizada
 
-**Backend* Node JS, Adonis Js.
-**Frontend* React Js, Next JS
+**Backend** Node JS, Adonis Js.
+**Frontend** React Js, Next JS
 
 
 ## Acesse o projeto no link
