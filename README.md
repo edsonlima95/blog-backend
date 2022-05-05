@@ -1,10 +1,11 @@
 # Blog sobre programação
 
-Este projeto foi feito para colocar em prática meus conhecimentos e ao mesmo tempo para servir como ajuda a comunidade javascript com tutoriais.
+Api completa do blog sobre programação
 
 ## Stack utilizada
 
-React Js, Next Js, Bootstrap.
+**Backend* Node JS, Adonis Js.
+**Frontend* React Js, Next JS
 
 
 ## Acesse o projeto no link
